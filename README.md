@@ -1,2 +1,2 @@
 # SudokuSolver
-Sudo is difficult
+Sudoku is difficult
